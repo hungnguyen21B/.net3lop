@@ -1,0 +1,11 @@
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.pdb
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.pdb
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csprojAssemblyReference.cache
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csproj.CoreCompileInputs.cache
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csproj.CopyComplete
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.pdb

@@ -1,0 +1,6 @@
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.csprojAssemblyReference.cache
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.csproj.CoreCompileInputs.cache
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.dll
+D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.pdb
