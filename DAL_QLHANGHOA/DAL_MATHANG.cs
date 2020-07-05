@@ -30,6 +30,25 @@ namespace DAL_QLHANGHOA
             }
             return dtMatHang;
         }
+        public DataTable GetMatHangTheoLoai(int maloai)
+        {
+            DataTable dtMatHang = new DataTable();
+            try
+            {
+                cnn.Open();
+                string SQL = string.Format("select * from where maloai={0}",maloai);
+                SqlCommand com = new SqlCommand(SQL, cnn);
+                com.CommandType = CommandType.Text;
+                SqlDataAdapter da = new SqlDataAdapter(com);
+                da.Fill(dtMatHang);
+                cnn.Close();
+            }
+            catch (Exception e)
+            {
+            }
+            return dtMatHang;
+        }
+
 
         //thêm mặt hàng
         public bool AddMatHang(DTO_MATHANG matHang)

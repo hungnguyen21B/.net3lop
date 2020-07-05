@@ -18,11 +18,16 @@ namespace BUS_QLHANGHOA
         {
             return dalMatHang.GetMatHang();
         }
+        public DataTable GetMatHangTheoLoai(int maloai)
+        {
+            return dalMatHang.GetMatHangTheoLoai(maloai);
+        }
         //thêm MẶT HÀNG
         public bool AddMatHang(DTO_MATHANG matHang)
         {
             return dalMatHang.AddMatHang(matHang);
         }
+
         //sửa MẶT HÀNG
         public bool UpdateMatHang(DTO_MATHANG matHang)
         {

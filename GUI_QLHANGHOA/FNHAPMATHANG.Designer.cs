@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.txtGhiChu = new System.Windows.Forms.TextBox();
@@ -69,7 +69,7 @@
             this.textBox1.ForeColor = System.Drawing.Color.Red;
             this.textBox1.Location = new System.Drawing.Point(8, 3);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(881, 47);
+            this.textBox1.Size = new System.Drawing.Size(881, 43);
             this.textBox1.TabIndex = 46;
             this.textBox1.Text = "NHẬP MẶT HÀNG";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -81,7 +81,7 @@
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label7.Location = new System.Drawing.Point(459, 78);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(107, 29);
+            this.label7.Size = new System.Drawing.Size(94, 26);
             this.label7.TabIndex = 45;
             this.label7.Text = "Ghi chú";
             // 
@@ -91,7 +91,7 @@
             this.txtGhiChu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtGhiChu.Location = new System.Drawing.Point(585, 78);
             this.txtGhiChu.Name = "txtGhiChu";
-            this.txtGhiChu.Size = new System.Drawing.Size(281, 31);
+            this.txtGhiChu.Size = new System.Drawing.Size(281, 29);
             this.txtGhiChu.TabIndex = 44;
             // 
             // label6
@@ -101,7 +101,7 @@
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label6.Location = new System.Drawing.Point(34, 140);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(107, 29);
+            this.label6.Size = new System.Drawing.Size(94, 26);
             this.label6.TabIndex = 43;
             this.label6.Text = "Đơn giá";
             // 
@@ -111,7 +111,7 @@
             this.txtDonGia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtDonGia.Location = new System.Drawing.Point(222, 149);
             this.txtDonGia.Name = "txtDonGia";
-            this.txtDonGia.Size = new System.Drawing.Size(164, 31);
+            this.txtDonGia.Size = new System.Drawing.Size(164, 29);
             this.txtDonGia.TabIndex = 42;
             // 
             // label5
@@ -121,7 +121,7 @@
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label5.Location = new System.Drawing.Point(34, 105);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(181, 29);
+            this.label5.Size = new System.Drawing.Size(157, 26);
             this.label5.TabIndex = 41;
             this.label5.Text = "Tên mặt hàng";
             // 
@@ -131,7 +131,7 @@
             this.txtTenMatHang.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtTenMatHang.Location = new System.Drawing.Point(222, 114);
             this.txtTenMatHang.Name = "txtTenMatHang";
-            this.txtTenMatHang.Size = new System.Drawing.Size(164, 31);
+            this.txtTenMatHang.Size = new System.Drawing.Size(164, 29);
             this.txtTenMatHang.TabIndex = 40;
             // 
             // label4
@@ -141,9 +141,10 @@
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label4.Location = new System.Drawing.Point(34, 69);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(172, 29);
+            this.label4.Size = new System.Drawing.Size(150, 26);
             this.label4.TabIndex = 39;
             this.label4.Text = "Mã mặt hàng";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // txtMaMatHang
             // 
@@ -152,7 +153,7 @@
             this.txtMaMatHang.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtMaMatHang.Location = new System.Drawing.Point(222, 78);
             this.txtMaMatHang.Name = "txtMaMatHang";
-            this.txtMaMatHang.Size = new System.Drawing.Size(164, 31);
+            this.txtMaMatHang.Size = new System.Drawing.Size(164, 29);
             this.txtMaMatHang.TabIndex = 38;
             // 
             // btnSua
@@ -194,7 +195,7 @@
             // xóaMặtHàngĐangChọnToolStripMenuItem
             // 
             this.xóaMặtHàngĐangChọnToolStripMenuItem.Name = "xóaMặtHàngĐangChọnToolStripMenuItem";
-            this.xóaMặtHàngĐangChọnToolStripMenuItem.Size = new System.Drawing.Size(295, 24);
+            this.xóaMặtHàngĐangChọnToolStripMenuItem.Size = new System.Drawing.Size(261, 22);
             this.xóaMặtHàngĐangChọnToolStripMenuItem.Text = "Xóa mặt hàng đang chọn";
             // 
             // cmsMatHang
@@ -204,12 +205,12 @@
             this.hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem,
             this.xóaMặtHàngĐangChọnToolStripMenuItem});
             this.cmsMatHang.Name = "cmsMatHang";
-            this.cmsMatHang.Size = new System.Drawing.Size(296, 52);
+            this.cmsMatHang.Size = new System.Drawing.Size(262, 48);
             // 
             // hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem
             // 
             this.hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem.Name = "hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem";
-            this.hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem.Size = new System.Drawing.Size(295, 24);
+            this.hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem.Size = new System.Drawing.Size(261, 22);
             this.hiểnThịThôngTinChiTiếtMặtHàngToolStripMenuItem.Text = "Hiển thị thông tin chi tiết mặt hàng";
             // 
             // cboLoai
@@ -219,8 +220,9 @@
             this.cboLoai.FormattingEnabled = true;
             this.cboLoai.Location = new System.Drawing.Point(585, 115);
             this.cboLoai.Name = "cboLoai";
-            this.cboLoai.Size = new System.Drawing.Size(281, 37);
+            this.cboLoai.Size = new System.Drawing.Size(281, 34);
             this.cboLoai.TabIndex = 31;
+            this.cboLoai.SelectedIndexChanged += new System.EventHandler(this.cboLoai_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -229,7 +231,7 @@
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label3.Location = new System.Drawing.Point(14, 241);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(228, 25);
+            this.label3.Size = new System.Drawing.Size(210, 25);
             this.label3.TabIndex = 34;
             this.label3.Text = "Danh sách mặt hàng";
             // 
@@ -240,7 +242,7 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label2.Location = new System.Drawing.Point(501, 116);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 29);
+            this.label2.Size = new System.Drawing.Size(57, 26);
             this.label2.TabIndex = 33;
             this.label2.Text = "Loại";
             // 
@@ -248,14 +250,14 @@
             // 
             this.dgvMathang.AllowUserToAddRows = false;
             this.dgvMathang.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvMathang.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvMathang.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvMathang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvMathang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.stt,
@@ -265,25 +267,25 @@
             this.ghichu,
             this.maloai,
             this.tenloai});
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.Red;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvMathang.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Red;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvMathang.DefaultCellStyle = dataGridViewCellStyle5;
             this.dgvMathang.Location = new System.Drawing.Point(10, 277);
             this.dgvMathang.Name = "dgvMathang";
             this.dgvMathang.ReadOnly = true;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvMathang.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.471698F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(254)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvMathang.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dgvMathang.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvMathang.Size = new System.Drawing.Size(879, 171);
             this.dgvMathang.TabIndex = 32;

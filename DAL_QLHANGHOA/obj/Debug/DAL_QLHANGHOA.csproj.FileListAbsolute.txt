@@ -7,3 +7,12 @@ D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANG
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.csproj.CopyComplete
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.dll
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.csprojAssemblyReference.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.csproj.CoreCompileInputs.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.csproj.CopyComplete
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DAL_QLHANGHOA\obj\Debug\DAL_QLHANGHOA.pdb

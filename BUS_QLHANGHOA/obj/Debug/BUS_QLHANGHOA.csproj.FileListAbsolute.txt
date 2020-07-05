@@ -9,3 +9,14 @@ D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANG
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csproj.CopyComplete
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.dll
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csprojAssemblyReference.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csproj.CoreCompileInputs.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.csproj.CopyComplete
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\BUS_QLHANGHOA\obj\Debug\BUS_QLHANGHOA.pdb

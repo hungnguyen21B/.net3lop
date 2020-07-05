@@ -15,3 +15,20 @@ D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANG
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.csproj.CopyComplete
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.exe
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\GUI_QLHANGHOA.exe.config
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\GUI_QLHANGHOA.exe
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\GUI_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\BUS_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\bin\Debug\DAL_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.csprojAssemblyReference.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.FNHAPMATHANG.resources
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.Properties.Resources.resources
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.csproj.GenerateResource.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.csproj.CoreCompileInputs.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.csproj.CopyComplete
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.exe
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\GUI_QLHANGHOA\obj\Debug\GUI_QLHANGHOA.pdb

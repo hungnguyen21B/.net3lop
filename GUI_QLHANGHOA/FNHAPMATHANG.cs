@@ -58,7 +58,23 @@ namespace GUI_QLHANGHOA
                 }
             }
         }
-        
+        //load mat hang theo ma loai xuong datalist view
+        public void LoadMatHangTheoLoai(int maloai)
+        {
+            DataTable dt = new DataTable();
+            dt = busMatHang.GetMatHangTheoLoai(maloai);
+            dgvMathang.DataSource = dt;
+            int j = 1;
+            foreach (DataGridViewRow i in dgvMathang.Rows)
+            {
+                if (i != null)
+                {
+                    i.Cells[0].Value = j;
+                    j++;
+                }
+            }
+        }
+
         //phương thức ClearControl để xóa trống các điều khiển và đặt focus vào txtMaMatHang
         public void ClearControl()
         {
@@ -234,6 +250,17 @@ namespace GUI_QLHANGHOA
             {
                 MessageBox.Show("Hãy chọn mặt hàng muốn xóa");
             }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cboLoai_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int maLoai = ((DTO_LOAI)(cboLoai.SelectedItem)).MaLoai;
+            LoadMatHangTheoLoai(maLoai);
         }
     }
 }

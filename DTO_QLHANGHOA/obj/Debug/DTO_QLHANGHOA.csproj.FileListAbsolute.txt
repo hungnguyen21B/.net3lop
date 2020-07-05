@@ -4,3 +4,9 @@ D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANG
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.csproj.CoreCompileInputs.cache
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.dll
 D:\TIN HOC\C#\ProjectLinhC#\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\bin\Debug\DTO_QLHANGHOA.pdb
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.csprojAssemblyReference.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.csproj.CoreCompileInputs.cache
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.dll
+C:\Users\hung.nguyen21\source\repos\QuanLyHangHoa3Lop\DTO_QLHANGHOA\obj\Debug\DTO_QLHANGHOA.pdb

@@ -20,7 +20,7 @@ namespace DTO_QLHANGHOA
         //constructor
         public DTO_LOAI()
         {
-        }
+         }
 
         public DTO_LOAI(int maLoai, string tenLoai, int maHangSx)
         {
